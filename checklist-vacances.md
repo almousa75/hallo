@@ -8,3 +8,8 @@ et maintenat ajoutant date arrive 25/05/2018
 fin de projet
 
 changement de direction
+
+deviation de trajet a bordeaux
+
+
+
