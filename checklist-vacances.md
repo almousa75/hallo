@@ -1,3 +1,4 @@
+
 salam
 woohoo!
 
@@ -9,11 +10,7 @@ fin de projet
 
 changement de direction
 
-<<<<<<< HEAD
 itineraire Bordeaux
-=======
 deviation de trajet a bordeaux
 
-
->>>>>>> deviation-trajet
 
